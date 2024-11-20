@@ -1,0 +1,6 @@
+# IDE默认配置文件路径
+.vs
+.vscode
+.idea
+
+.obsidian/workspace.json
